@@ -2,6 +2,6 @@
 
 ## Usage
 
-´´´
-GET /{status}/... 
-´´´
+```
+https://http-error-emulator.vercel.app/{status}/.../...
+```
